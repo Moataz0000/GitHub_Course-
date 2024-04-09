@@ -3,7 +3,7 @@
 ## Project Notes:
 
 
-> [!IMPORTANT Commands]
+> [!IMPORTANT]
 > This repo is just to learn about GitHub.
 
 
