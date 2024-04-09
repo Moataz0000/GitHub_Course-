@@ -1,2 +1,4 @@
 # GitHub_Course-
-this repo to learn about github 
+
+## Project Notes:
+- this repo to learn about GitHub
