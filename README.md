@@ -8,5 +8,5 @@
 
 
 
-- [x] git clone  'Repo Link'
+- [x] git clone  <sup>Repo Link</sup>
   - this command takes the copy of the repo to the Local Host 
