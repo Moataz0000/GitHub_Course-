@@ -1,7 +1,6 @@
 # GitHub_Course-
 
 ## Project Notes:
-- this repo is just to learn about GitHub
 
 
 > [!IMPORTANT]
